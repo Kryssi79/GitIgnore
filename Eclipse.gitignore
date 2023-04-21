@@ -43,6 +43,11 @@ local.properties
 # STS (Spring Tool Suite)
 .springBeans
 
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
 # Code Recommenders
 .recommenders/
 
